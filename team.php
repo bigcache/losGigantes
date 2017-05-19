@@ -4,7 +4,7 @@
 ?>
     <div id="team-members" class="cf">
         <h1>Nuestro Equipo</h1>
-        <h5>Los gigantes de la pizza es una casa de comidas familiar con mas de 20 años en Almagro y estamos orgullosos de eso!</h5>
+        <h4>Los gigantes de la pizza es una casa de comidas familiar con mas de 20 años en Almagro y estamos orgullosos de eso!</h4><br>
         <p><Strong> No dejes de probar nuestra insuperable pizza a la piedra</Strong></p>
 
         <hr>
