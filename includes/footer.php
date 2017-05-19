@@ -66,7 +66,7 @@
 
     </div><!--wrapper-->
     <div class="copyright-info">
-        <?php include('../assets/includes/copyright.php'); ?>
+        <?php include('copyright.php'); ?>
     
     </div>
 </body>
