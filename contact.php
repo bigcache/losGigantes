@@ -59,7 +59,7 @@
 
      <?php } else {
     ?>
-
+    <hr>
     <form method = "post" action="" id="contact-form">
 
         <label for= "name">Tu Nombre</label>

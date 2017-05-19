@@ -1,15 +1,16 @@
 
             <div id="footer" class="cf">
                 <div class="column three">
-                    <strong>Telefono</strong> 
-                    808.555.3999
+                    <strong>Telefono</strong>
+                    4862-7323/7354
                 </div> <!-- column -->
-                
+
                 <div class="column three">
                     <strong>Location</strong>
+                    Tucuman 3600 esq Mario Bravo<br>
                     Almagro, Buenos Aires.
                 </div><!-- column -->
-                
+
                 <div class="column three last">
                     <strong>Horario</strong>
                     <em>Lunes a Sabados</em><br>
@@ -40,7 +41,7 @@
                     $exceptions = array();
                      /*   '2/24'  => array('11:00-18:00'),
                         '10/18' => array('11:00-16:00', '18:00-20:30') */
-                     
+
                     $config = array(
                         'separator'      => ' - ',
                         'join'           => ' and ',
@@ -54,10 +55,10 @@
                     if($store_hours->is_open()) {
                         echo "<strong class='open'>Abierto, Estamos Atendiendo! </strong>"; // . $store_hours->hours_today() . ".";
                     } else {
-                        echo "<strong class='open'>Cerrado, Te esperamos mañana! </strong>" ; // . $store_hours->hours_today() . ".";
+                        echo "<strong class='closed'>Cerrado, Te esperamos mañana! </strong>" ; // . $store_hours->hours_today() . ".";
                     }
                 ?>
-                
+
                 </div> <!-- column -->
 
             </div> <!-- footer -->
@@ -67,7 +68,7 @@
     </div><!--wrapper-->
     <div class="copyright-info">
         <?php include('copyright.php'); ?>
-    
+
     </div>
 </body>
 

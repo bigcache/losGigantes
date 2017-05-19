@@ -2,20 +2,20 @@
 // nav menu items
 
 $navItems = array(
-                array( 
-                    'slug' => "index.php", 
+                array(
+                    'slug' => "index.php",
                     'title' => "Inicio"
                 ),
-                array( 
-                    'slug'  => "team.php", 
+                array(
+                    'slug'  => "team.php",
                     'title' => "Team"
                 ),
-                array( 
-                    'slug'  => "menu.php", 
+                array(
+                    'slug'  => "menu.php",
                     'title' => "Menu"
                 ),
-                array( 
-                    'slug'  => "contact.php", 
+                array(
+                    'slug'  => "contact.php",
                     'title' => "Contacto"
                 ),
 
@@ -33,7 +33,7 @@ $teamMembers = array(
                         Array(
                             'name'      => "Carlos",
                             'position'  => "Chef",
-                            'bio'       => "Carlos es el chef de los Gigantes, famoso por su incomparable pizza a la piedra.",
+                            'bio'       => "Carlos es el chef de los Gigantes, famoso por su esquisita pizza a la piedra.",
                             'img'       => "carlos"
                         ),
                         Array(
@@ -46,22 +46,22 @@ $teamMembers = array(
 
 $menuItems = array (
                     "albondigas" => Array(
-                        
+
                             'title'      => "Albondigas con pure",
                             'price'      => "90",
                             'blurb'      => "saracatunga saracatunga todos queremos saracatunga saracatunga queremos con vos kkkkkkkkkk.",
                             'drink'       => "Vino de la casa"
                             ),
                     "sanguche-mila" => Array(
-                        
+
                             'title'      => "Sanguche de Milanesa completo",
                             'price'      => "100",
                             'blurb'      => "Sanguche de milanesa completo con jamon queso tomate y huevo en nuestro pan casero de pizza",
                             'drink'       => "Cerveza Quilmes o Stella"
                             ),
-    
+
                     "escalopes" => Array(
-                        
+
                             'title'      => "Escalopes de ternera con Fritas<sup>&reg;</sup>",
                             'price'      => "120",
                             'blurb'      => "Escalopes de ternera con las mas crocantes papasfritas!!!",

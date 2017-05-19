@@ -1,7 +1,7 @@
 <?php
     define("TITLE", "Menu | Los Gigantes de la Pizza");
     include('includes/header.php');
-    
+
     function strip_bad ($input){
         $output = preg_replace("/[^a-zA-Z0-9_-]/", "", $input);
         return $output;
@@ -17,6 +17,7 @@
     <p><?php echo $dish['blurb']?></p>
     <br>
     <p><strong>Bebida Sugerida: <?php  echo $dish['drink'];?></strong></p>
+    <a href="menu.php" class="button block">Volver al menu del dia</a>'
 
 </div> <!--dish-->
 <hr>
