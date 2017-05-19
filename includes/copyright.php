@@ -1,0 +1,2 @@
+<h4>Bigcache Dynamic Websites</h4>
+<h5>Copyright &copy;<?php echo date('Y');?> <a href="http://marianoaviles.com.ar/" target="_blank">Mariano Aviles</a> of <a href="http://bigcache.com" target="_blank">bigcache.com</a></h5>
