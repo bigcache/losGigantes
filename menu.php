@@ -4,8 +4,8 @@
 ?>
 <div id="menu-items">
     <h1>Nuestro "Menu del Dia"</h1>
-    <p>Todos los dias distintos platos a un precio especial!</p>
-    <p><small>Cliquea en cualquiera de los platos para conocer mas acerca de el</small></p>
+    <p><strong>Todos los dias distintos platos a un precio especial!</strong></p>
+    <p><small><em>Cliquea en cualquiera de los platos para conocer mas acerca de el</em></small></p>
 
 <hr>
 
