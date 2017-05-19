@@ -14,7 +14,7 @@ include('includes/arrays.php');
     <div class="wrapper">
         <div id="banner">
         <a href="/" title="Return to Home">
-            <img src="IMG/bannerg.jpg" alt="Los Gigantes">
+            <img src="img/bannerg.jpg" alt="Los Gigantes">
         </a>
         </div><!--banner -->
 

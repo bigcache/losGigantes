@@ -11,7 +11,7 @@
         foreach ($teamMembers as $member) {
         ?>
             <div class="member">
-                <img src="IMG/<?php echo $member['name']; ?>.jpg" alt="<?php echo $member['name'];?>">
+                <img src="img/<?php echo $member['name']; ?>.jpg" alt="<?php echo $member['name'];?>">
                 <h2><?php echo $member['name']; ?></h2>
                 <p><?php echo $member['bio']; ?></p>
                 
