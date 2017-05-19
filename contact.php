@@ -56,7 +56,7 @@
      //mail sent
      <h5>Gracias por contactarnos</h5>
      <p>te responderemos a la brevedad.</p>
-     <p><a href="/final" class="button block">&laquo;Volver a Inicio</a></p>
+     <a href="index.php" class="button block">&laquo;Volver a Inicio</a>
      
      <?php } else {
     ?>
