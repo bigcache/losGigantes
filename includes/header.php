@@ -1,5 +1,5 @@
 <?php
-$companyName = "Los Gigantes de la Pizza";    
+$companyName = "Los Gigantes de la Pizza";
 include('includes/arrays.php');
 ?>
 <!DOCTYPE html>
@@ -14,7 +14,7 @@ include('includes/arrays.php');
     <div class="wrapper">
         <div id="banner">
         <a href="/" title="Return to Home">
-            <img src="IMG/bannerg.jpg" alt="Los Gigantes">
+            <img src="IMG/bannerg.png" alt="Los Gigantes">
         </a>
         </div><!--banner -->
 
