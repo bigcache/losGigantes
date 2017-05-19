@@ -49,7 +49,7 @@ $menuItems = array (
 
                             'title'      => "Albondigas con pure",
                             'price'      => "90",
-                            'blurb'      => "saracatunga saracatunga todos queremos saracatunga saracatunga queremos con vos kkkkkkkkkk.",
+                            'blurb'      => "Albondigas con salsa casera y un sabroso pure de papas seleccionadas.",
                             'drink'       => "Vino de la casa"
                             ),
                     "sanguche-mila" => Array(
