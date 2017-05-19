@@ -3,7 +3,6 @@
     include('includes/header.php');
 ?>
 <div id="contact">
-    <hr>
     <h1>Contactanos!</h1>
 
     <?php
